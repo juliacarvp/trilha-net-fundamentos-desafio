@@ -1,7 +1,0 @@
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\SistemaDeEstacionamento.exe.config
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\SistemaDeEstacionamento.exe
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\SistemaDeEstacionamento.pdb
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\SistemaDeEstacionamento.csproj.AssemblyReference.cache
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\SistemaDeEstacionamento.exe
-C:\Users\julia\OneDrive\Documentos\CSharp\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\SistemaDeEstacionamento.pdb
